@@ -321,7 +321,7 @@ const crtLoveTl = () => {
       delay: move,
       fill: el.colHeart,
       x: -64,
-      y: 20,
+      y: 5,
       scale: { 0: 0.95, easing: easingHeart },
       duration: 500,
     })
